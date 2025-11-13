@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { useLocalStorage } from '../hooks/UseLocalStorage'
 
-const API_KEY =  import.meta.env.VITE_OMDB_API_KEY
+const API_KEY =  import.meta.env.VITE_OMDB_API_KEY || '81db19ce'
 
 const Home = () => {
   const [searchTerm, setSearchTerm] = useState('')
