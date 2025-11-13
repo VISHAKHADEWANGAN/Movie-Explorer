@@ -52,24 +52,40 @@ https://movie-explorer-2523.vercel.app/
 # 🎯 Project Structure
 
    movie-explorer/
+   
  ├── public/
+ 
  │   └── placeholder-movie.jpg
+ 
  ├── src/
- │   ├── components/         
+ 
+ │   ├── components/ 
+
+ 
  │   │   ├── (Modular components)
- │   ├── hooks/              
- │   │   └── useLocalStorage.js
- │   ├── pages/              
+ 
+ │   ├── hooks/ 
+ 
+ │   │   └── UseLocalStorage.js
+ 
+ │   ├── pages/
+ 
  │   ├── Home.jsx
+ 
  │   │   └── MovieDetail.jsx
- │   ├── services/          
- │   │   └── movieApi.js
+ 
  │   ├── App.jsx
+ 
  │   ├── main.jsx
+ 
  │   └── index.css
+ 
  ├── .env.example
+ 
  ├── tailwind.config.js
+ 
  ├── vite.config.js
+ 
  └── package.json
 
 # 🎨 Key Features Explained
