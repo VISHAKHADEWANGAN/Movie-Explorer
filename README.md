@@ -52,25 +52,25 @@ https://movie-explorer-2523.vercel.app/
 # 🎯 Project Structure
 
    movie-explorer/
-├── public/
-│   └── placeholder-movie.jpg
-├── src/
-│   ├── components/         
-│   │   ├── (Modular components)
-│   ├── hooks/              
-│   │   └── useLocalStorage.js
-│   ├── pages/              
-│   │   ├── Home.jsx
-│   │   └── MovieDetail.jsx
-│   ├── services/          
-│   │   └── movieApi.js
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── .env.example
-├── tailwind.config.js
-├── vite.config.js
-└── package.json
+ ├── public/
+ │   └── placeholder-movie.jpg
+ ├── src/
+ │   ├── components/         
+ │   │   ├── (Modular components)
+ │   ├── hooks/              
+ │   │   └── useLocalStorage.js
+ │   ├── pages/              
+ │   ├── Home.jsx
+ │   │   └── MovieDetail.jsx
+ │   ├── services/          
+ │   │   └── movieApi.js
+ │   ├── App.jsx
+ │   ├── main.jsx
+ │   └── index.css
+ ├── .env.example
+ ├── tailwind.config.js
+ ├── vite.config.js
+ └── package.json
 
 # 🎨 Key Features Explained
 
@@ -91,17 +91,17 @@ https://movie-explorer-2523.vercel.app/
 
 # Favorites System
 
--❤️ Add/remove movies from favorites
--💾 Persistent storage using localStorage
--🔄 Sync across browser sessions
--📱 Easy access from navigation
+- ❤️ Add/remove movies from favorites
+- 💾 Persistent storage using localStorage
+- 🔄 Sync across browser sessions
+- 📱 Easy access from navigation
 
 # Responsive Design
 
--Mobile-first approach
--Flexible grid layouts
--Touch-friendly interactions
--Optimized for all screen sizes
+- Mobile-first approach
+- Flexible grid layouts
+- Touch-friendly interactions
+- Optimized for all screen sizes
 
 # 📱 Screenshots
 
