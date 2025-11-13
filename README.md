@@ -55,14 +55,14 @@ https://movie-explorer-2523.vercel.app/
 ├── public/
 │   └── placeholder-movie.jpg
 ├── src/
-│   ├── components/          # Reusable components
+│   ├── components/         
 │   │   ├── (Modular components)
-│   ├── hooks/              # Custom React hooks
+│   ├── hooks/              
 │   │   └── useLocalStorage.js
-│   ├── pages/              # Page components
+│   ├── pages/              
 │   │   ├── Home.jsx
 │   │   └── MovieDetail.jsx
-│   ├── services/           # API services
+│   ├── services/          
 │   │   └── movieApi.js
 │   ├── App.jsx
 │   ├── main.jsx
@@ -76,44 +76,32 @@ https://movie-explorer-2523.vercel.app/
 
 # Search Functionality
 
-Real-time movie search with OMDb API
-
-Loading states with elegant spinners
-
-Error handling for failed requests
-
-Pagination for large result sets
+- Real-time movie search with OMDb API
+- Loading states with elegant spinners
+- Error handling for failed requests
+- Pagination for large result sets
 
 # Movie Details
 
-Comprehensive movie information display
-
-Genre badges with gradient styling
-
-IMDb ratings and metadata
-
-Full-size poster images
-
-Responsive layout
+- Comprehensive movie information display
+- Genre badges with gradient styling
+- IMDb ratings and metadata
+- Full-size poster images
+- Responsive layout
 
 # Favorites System
-❤️ Add/remove movies from favorites
 
-💾 Persistent storage using localStorage
-
-🔄 Sync across browser sessions
-
-📱 Easy access from navigation
+-❤️ Add/remove movies from favorites
+-💾 Persistent storage using localStorage
+-🔄 Sync across browser sessions
+-📱 Easy access from navigation
 
 # Responsive Design
 
-Mobile-first approach
-
-Flexible grid layouts
-
-Touch-friendly interactions
-
-Optimized for all screen sizes
+-Mobile-first approach
+-Flexible grid layouts
+-Touch-friendly interactions
+-Optimized for all screen sizes
 
 # 📱 Screenshots
 
@@ -129,7 +117,7 @@ Optimized for all screen sizes
 
 <img width="1011" height="733" alt="Screenshot 2025-11-13 110316" src="https://github.com/user-attachments/assets/f0b57216-12bc-4798-a167-65961bad8e77" />
 
-Favorites Page
+# Favorites Page
 
 <img width="1773" height="842" alt="Screenshot 2025-11-13 110356" src="https://github.com/user-attachments/assets/f19d625e-a8b4-4fda-8c92-9c6fe209b584" />
 
