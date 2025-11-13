@@ -54,20 +54,12 @@ https://movie-explorer-2523.vercel.app/
    movie-explorer/
    
  ├── public/
- 
  │   └── placeholder-movie.jpg
- 
  ├── src/
- 
  │   ├── components/ 
-
- 
  │   │   ├── (Modular components)
- 
- │   ├── hooks/ 
- 
+ │   ├── hooks/
  │   │   └── UseLocalStorage.js
- 
  │   ├── pages/
  
  │   ├── Home.jsx
