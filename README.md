@@ -41,7 +41,6 @@ https://movie-explorer-2523.vercel.app/
    npm install
 
 3. Set up environment variables
-   # Create .env file in root directory
     cp .env.example .env
    
 4. Start development server
@@ -50,7 +49,7 @@ https://movie-explorer-2523.vercel.app/
 5. Build for production
    npm run build
 
-🎯 Project Structure
+# 🎯 Project Structure
 
    movie-explorer/
 ├── public/
@@ -73,9 +72,10 @@ https://movie-explorer-2523.vercel.app/
 ├── vite.config.js
 └── package.json
 
-🎨 Key Features Explained
+# 🎨 Key Features Explained
 
-Search Functionality
+# Search Functionality
+
 Real-time movie search with OMDb API
 
 Loading states with elegant spinners
@@ -84,7 +84,8 @@ Error handling for failed requests
 
 Pagination for large result sets
 
-Movie Details
+# Movie Details
+
 Comprehensive movie information display
 
 Genre badges with gradient styling
@@ -95,7 +96,7 @@ Full-size poster images
 
 Responsive layout
 
-Favorites System
+# Favorites System
 ❤️ Add/remove movies from favorites
 
 💾 Persistent storage using localStorage
@@ -104,7 +105,8 @@ Favorites System
 
 📱 Easy access from navigation
 
-Responsive Design
+# Responsive Design
+
 Mobile-first approach
 
 Flexible grid layouts
@@ -113,17 +115,17 @@ Touch-friendly interactions
 
 Optimized for all screen sizes
 
-📱 Screenshots
+# 📱 Screenshots
 
-Home Page
+# Home Page
 
 <img width="1904" height="866" alt="Screenshot 2025-11-13 110122" src="https://github.com/user-attachments/assets/082b46c9-64a9-4105-8d19-fc1300da8873" />
 
-Search Results
+# Search Results
 
 <img width="1893" height="859" alt="Screenshot 2025-11-13 110223" src="https://github.com/user-attachments/assets/49d66276-2691-43e8-80c5-539cbf854f7d" />
 
-Movie Details
+# Movie Details
 
 <img width="1011" height="733" alt="Screenshot 2025-11-13 110316" src="https://github.com/user-attachments/assets/f0b57216-12bc-4798-a167-65961bad8e77" />
 
